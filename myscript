@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Author : Agbor
+# Date : Oct. 2022
+# Description : Create script named 1-99
+echo {1..99}
